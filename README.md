@@ -1,2 +1,2 @@
 # kafka-nodejs
-Simple integration of Kafkajs with Nodejs with React frontend
+Simple integration of Kafkajs & Nodejs with React frontend
